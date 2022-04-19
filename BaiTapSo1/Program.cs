@@ -66,18 +66,18 @@ namespace BaiTapSo1
                     case 0:
                         break;
                     case 1:
-                        TamGiac tamgiac = new TamGiac();
-                        tamgiac.Xuat();
+                        TamGiac tamgiac_232 = new TamGiac();
+                        tamgiac_232.Xuat();
                         Console.ReadKey();
                         break;
                     case 2:
-                        TuGiac tugiac = new TuGiac();
-                        tugiac.Xuat();
+                        TuGiac tugiac_232 = new TuGiac();
+                        tugiac_232.Xuat();
                         Console.ReadKey();
                         break;
                     case 3:
-                        HinhBinhHanh hbh = new HinhBinhHanh();
-                        hbh.Xuat();
+                        HinhBinhHanh hbh_232 = new HinhBinhHanh();
+                        hbh_232.Xuat();
                         Console.ReadKey();
                         break;
                     case 4:
@@ -86,8 +86,8 @@ namespace BaiTapSo1
                         Console.ReadKey();
                         break;
                     case 5:
-                        HinhChuNhat hcn = new HinhChuNhat();
-                        hcn.Xuat();
+                        HinhChuNhat hcn_232 = new HinhChuNhat();
+                        hcn_232.Xuat();
                         Console.ReadKey();
                         break;
 
